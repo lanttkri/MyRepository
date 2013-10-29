@@ -1,4 +1,4 @@
 MyRepository
 ============
 
-lanttkri private repository
+lanttkri's repository for testing purpose.
